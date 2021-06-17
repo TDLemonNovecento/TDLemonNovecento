@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TDLemonNovecento
-- 👀 I’m interested in machine learning and its prerequisites!
-- 🌱 I’m currently learning SQL and want to write my own cookbook application to store my recipes in a less messy way
-      than with 15 books and folders accross the kitchen
-- 💞️ I’m looking to collaborate on anything really! I've only worked alone on projects so far so I'd love to work in a group for a change :)
-- 📫 How to reach me: overleaf_stu@gmx.net
+- 👀 I’m interested in machine learning, quantum mechanics and biochemistry
+- 🌱 I’m currently diving into machine learning and trying out new programs. I've done some data analysis with python and R and am now working on a summary of different ML models in Wolfram Mathematica Notebook. Check it out here (PW is TDLemonNovecento):
+ https://www.wolframcloud.com/obj/m.stuke/ML_models.nb
+ 
+- 📫 How to reach me: miriam_stu@pm.me
