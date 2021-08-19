@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TDLemonNovecento
 - 👀 I’m interested in machine learning, quantum mechanics and biochemistry
-- 🌱 I’m currently diving into machine learning and trying out new programs. I've done some data analysis with python and R and am now working on a summary of different ML models in Wolfram Mathematica Notebook. Check it out here (PW is TDLemonNovecento):
- https://www.wolframcloud.com/obj/m.stuke/ML_models.nb
+- 🌱 I’m currently diving into PK/PD modelling and data science. I'll upload some examples in the future, but if you are interested to have a peak, feel free to contact me.
  
 - 📫 How to reach me: miriam_stu@pm.me
